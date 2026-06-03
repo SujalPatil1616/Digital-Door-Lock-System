@@ -65,7 +65,7 @@ alarm = 1
 
 ## Waveform
 
-<img src="https://github.com/SujalPatil1616/Digital-Door-Lock-System/blob/main/Traffic_controller_waveform.png" width="1000">
+<img src="https://github.com/SujalPatil1616/Digital-Door-Lock-System/blob/main/door_lock_waveform.png" width="1000">
 
 ## Result
 

@@ -1,4 +1,4 @@
-# Digital Door Lock System using Verilog
+# Digital Door Lock System 
 
 ## Description
 
@@ -65,7 +65,7 @@ alarm = 1
 
 ## Waveform
 
-<img src="door_lock_waveform.png" alt="Digital Door Lock Waveform" width="1000">
+<img src="https://github.com/SujalPatil1616/Digital-Door-Lock-System/blob/main/Traffic_controller_waveform.png" width="1000">
 
 ## Result
 
